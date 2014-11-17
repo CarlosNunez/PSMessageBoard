@@ -1,0 +1,24 @@
+.message {
+  background: none repeat scroll 0 0 #eeeeee;
+  border: 1px solid #888888;
+  border-radius: 5px 5px 5px 5px;
+  margin-bottom: 5px;
+  margin-left: 0;
+  margin-right: -20px;
+  padding: 5px;
+}
+.message .title {
+  font-size: 20px;
+  font-weight: bold;
+  -webkit-text-shadow: 2px 2px 4px #888888;
+  text-shadow: 2px 2px 4px #888888;
+}
+.message .reply {
+  border-top: 1px solid #888;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+.message .reply .created {
+  font-size: 9px;
+  margin-left: 10px;
+}
